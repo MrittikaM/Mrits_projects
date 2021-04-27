@@ -25,3 +25,6 @@ Web/App Implementation (Optional) or Description of Future Work
 MySQL dump
 
 Project Video
+
+![GitHub Logo](User-roles-access.sql)
+Format: ![Alt Text](url)
