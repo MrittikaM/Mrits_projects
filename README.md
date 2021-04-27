@@ -13,7 +13,10 @@ Business Rules
 
 EERD (full database)
 
-MySQL Queries
+MySQL Queries:
+
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 Stored Procedure
 
