@@ -21,9 +21,8 @@ MySQL Queries:
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-Stored Procedure
-
-Web/App Implementation (Optional) or Description of Future Work
+### Stored Procedure: 
+Stored Procedures & Functions.sql
 
 MySQL dump
 
