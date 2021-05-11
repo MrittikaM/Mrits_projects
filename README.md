@@ -22,7 +22,7 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 ### Stored Procedure: 
-Stored Procedures & Functions.sql
+Stored-Procedures-&-Functions.sql
 
 MySQL dump
 
