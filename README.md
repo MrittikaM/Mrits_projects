@@ -1,5 +1,14 @@
 # Enhancing the Campus_Eats_2020_Database
-Introduction (Team, Project Description): 
+Introduction: Enhancement and addition of a rating system to an existing database prototype.
+### Project requirements: 
+Add a rating system by creating tables to the existing Campus Eats database and add test data. 
+Create advanced views in the database.
+Reverse engineer the database to the model.
+Enhance the database by adding stored procedures, functions and triggers.
+Create roles, assign users to them and grant different kinds of access to these users.
+![image](https://user-images.githubusercontent.com/83289980/117827605-1fbb8980-b23f-11eb-94f4-3d12df2a57ab.png)
+
+
 
 ### Our team:
 Project description:
