@@ -22,8 +22,7 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 ### Stored Procedure: 
-Stored-Procedures-&-Functions.sql
-
+https://github.com/MrittikaM/Mrits_projects/blob/38c2fe5496748150b4061f16c68bc25c02c77854/Stored%20Procedures%20&%20Functions.sql
 MySQL dump
 
 Project Video
